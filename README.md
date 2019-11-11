@@ -36,4 +36,7 @@ Our smallest model: LightNet-MobileNet acheived 0.809 mIoU with only 13MB size, 
 
 <img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/qualitative_evaluation.png" />
 
+# Reference
+
+The RefineNet model architecture is adapted from https://github.com/ansleliu/LightNet
 
