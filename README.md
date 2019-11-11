@@ -2,7 +2,7 @@
 
 This project is part of the course Deep Learning - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
 
-<img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/usecase_deepphoto.png" />
+<img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/examples/usecase_deepphoto.png" />
 
 # Team members
 
@@ -30,7 +30,7 @@ We finetuned and pruned the RefineNet to our use case.
 
 Our smallest model: LightNet-MobileNet acheived 0.809 mIoU with only 13MB size, which outperforms the off-the-shelf DeepLabV3 (0.806 mIoU, 233MB) in this specific task in terms of the quality, size and inference speed.
 
-<img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/qualitative_evaluation.png" />
+<img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/examples/qualitative_evaluation.png" />
 
 # Duration
 
