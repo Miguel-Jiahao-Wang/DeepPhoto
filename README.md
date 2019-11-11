@@ -34,7 +34,7 @@ Our smallest model: LightNet-MobileNet acheived 0.809 mIoU with only 13MB size, 
 
 # Duration
 
-This project was conducted between 2019-Nov-05 to 2019-Nov-11.
+This project was conducted between 2019-Nov-05 and 2019-Nov-11.
 
 # Reference
 
