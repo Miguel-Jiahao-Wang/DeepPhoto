@@ -30,7 +30,12 @@ We finetuned and pruned the RefineNet to our use case.
 
 Our smallest model: LightNet-MobileNet acheived 0.809 mIoU with only 13MB size, which outperforms the off-the-shelf DeepLabV3 (0.806 mIoU, 233MB) in this specific task in terms of the quality, size and inference speed.
 
+First five images in testset:
 <img src="https://github.com/Miguel-Jiahao-Wang/InstanceSegmentation_NeuralTransfer/blob/master/examples/qualitative_evaluation.png" />
+
+Full pipeline examples:
+<img src="https://github.com/Miguel-Jiahao-Wang/DeepPhoto/blob/master/examples/more_examples.png" />
+
 
 # Duration
 
